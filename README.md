@@ -1,5 +1,5 @@
 # MiniMalmo
-Minimal example for a website using the variable AgentHost from Project Malmo (https://github.com/Microsoft/malmo).
+Minimal example for a website that instantiates (but does not use) the variable AgentHost from Project Malmo (https://github.com/Microsoft/malmo).
 
 This project is the default template for an ASP.NET Web application in Visual Studio. It has been simplified to only contain two pages and no databases.
 
