@@ -1,4 +1,4 @@
-﻿t using System.Web.Mvc;
+﻿using System.Web.Mvc;
 using Microsoft.Research.Malmo;
 
 namespace MinimalMalmo.Controllers
